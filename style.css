@@ -21,7 +21,7 @@ a {
 }
 
 body {
-    
+
 }
 
 header {
@@ -93,4 +93,5 @@ footer {
     padding: 20px 0px;
     color: #eee;
     margin-top: auto;
+    font-size: 0.9em;
 }
